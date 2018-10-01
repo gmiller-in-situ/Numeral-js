@@ -1,6 +1,6 @@
 {
-  "name": "numeral",
-  "repo": "adamwdraper/Numeral-js",
+  "name": "numeral-ko",
+  "repo": "gmiller-in-situ/Numeral-js",
   "version": "2.0.6",
   "description": "Format and manipulate numbers.",
   "keywords": [
